@@ -1,0 +1,1 @@
+Rails.application.config.session_store :cookie_store, key: "d-d_backend", domain: "d-d_backend.herokuapp.com"
